@@ -1,0 +1,14 @@
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\bin\Debug\net6.0\ConsoleAppProducts.exe
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\bin\Debug\net6.0\ConsoleAppProducts.deps.json
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\bin\Debug\net6.0\ConsoleAppProducts.runtimeconfig.json
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\bin\Debug\net6.0\ConsoleAppProducts.dll
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\bin\Debug\net6.0\ConsoleAppProducts.pdb
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.AssemblyInfoInputs.cache
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.AssemblyInfo.cs
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.dll
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\refint\ConsoleAppProducts.dll
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.pdb
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.genruntimeconfig.cache
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ref\ConsoleAppProducts.dll
