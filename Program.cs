@@ -17,8 +17,9 @@ class Program
         products.Add("Monitor", new Product("Monitor", 199.99, "Dell", new DateTime(2023, 3, 20), new DateTime(2027, 3, 20)));
         products.Add("Laptop", new Product("Laptop ", 699.99, "HP", new DateTime(2023, 4, 25), new DateTime(2027, 4, 25)));
         products.Add("Headphone", new Product("Headphone", 49.99, "Sony", new DateTime(2023, 5, 30), new DateTime(2026, 5, 30)));
+        products.Add("phone", new Product("Phone", 50.00, "Iphone", new DateTime(2023, 2, 16), new DateTime(2026, 2, 16)));
 
-        
+
         Console.WriteLine("Index \t\t PName \t\t Price \t\t Brand \t\t MfDate \t\t ExpDate");
         foreach (var product in products)
         {

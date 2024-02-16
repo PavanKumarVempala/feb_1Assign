@@ -12,3 +12,4 @@ D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\ob
 D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.pdb
 D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.genruntimeconfig.cache
 D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ref\ConsoleAppProducts.dll
+D:\Simplilearn\Phase_4\dailyAssessments\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.sourcelink.json
